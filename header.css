@@ -1,0 +1,17 @@
+header > h1{
+  background-color: #0eec90;
+  text-align: center;
+  padding: 20px;
+}
+h2{
+  background-color: yellow;
+  text-decoration: underline;
+}
+
+li{
+  color: red; 
+}
+
+h3{
+  font-family: "Courier New";
+}
